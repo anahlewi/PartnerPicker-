@@ -1,0 +1,9 @@
+12 May 2017 16:20:12 GMT: Log 'EclipseCompiler.txt' opened: 12 May 2017 16:20:12 GMT with name C:\Users\bwu4\Dropbox\Babson Ugrad\4\Spring 2017\CS230\Final Project\Final Project vf2\EclipseCompiler.txt
+12 May 2017 16:22:08 GMT: diagnostics = javax.tools.DiagnosticCollector@135169a
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@8bf385
+fileObjects = [C:\Users\bwu4\Dropbox\Babson Ugrad\4\Spring 2017\CS230\Final Project\Final Project vf2\CompatibilityScore.java, C:\Users\bwu4\Dropbox\Babson Ugrad\4\Spring 2017\CS230\Final Project\Final Project vf2\Student.java]
+12 May 2017 16:22:08 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@14163e6' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\bwu4\Dropbox\Babson Ugrad\4\Spring 2017\CS230\Final Project\Final Project vf2;C:\Users\bwu4\Dropbox\Babson Ugrad\4\Spring 2017\CS230\Midterm 3\exam3-starter\javafoundations;C:\Users\bwu4\Dropbox\Babson Ugrad\4\Spring 2017\CS230\Midterm 3\exam3-starter;C:\Users\bwu4\Desktop\drjava.exe]
+12 May 2017 16:22:08 GMT: Compiler call returned
+12 May 2017 16:22:08 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@33f8bf
+12 May 2017 16:22:08 GMT:  Kind = WARNING
+12 May 2017 16:22:08 GMT: Name = C:\Users\bwu4\Dropbox\Babson Ugrad\4\Spring 2017\CS230\Final Project\Final Project vf2\Student.java LineNo = 19 ColNo = 19 Msg = 'The value of the field Student.hasPartner is not used'
